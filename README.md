@@ -1,6 +1,7 @@
 # littlelemon_app
 This is a web app for the Littlelemon restaurant
 # Running_app
+
 Step 1: Activate the virtual environment inside the project folder
         >>> venv\Scripts\activate
 Step 2: Install dependencies in the requirement.txt file
