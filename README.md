@@ -1,5 +1,5 @@
 # littlelemon_app
-This is a web app for the Littlelemon restaurant
+This is a web app for the Littlelemon restaurant and this app is built with Django
 # Running_app
 ## Step 1: Activate the virtual environment inside the project folder
         >>> venv\Scripts\activate
